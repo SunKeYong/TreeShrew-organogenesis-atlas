@@ -1,5 +1,7 @@
 # Environment setup
 
+Environment specifications contributed by **Ou Lin (欧霖)**. These shared environments support the figure-specific analyses in `Figure_1/` through `Figure_6/`.
+
 Use separate environments for the relevant analysis stages. These are supplied research environment specifications; they have not been freshly installed or solved during this upload. They retain original package versions and build identifiers, including Linux/GPU-specific dependencies. They are not guaranteed to solve on macOS or on every CUDA installation.
 
 | Environment file | Supplied name | Main use |
