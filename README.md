@@ -2,7 +2,7 @@
 
 Analysis code for the tree shrew organogenesis chromatin accessibility atlas, including single-cell processing, candidate cis-regulatory element (cCRE) analysis, sequence-to-function modelling and cross-species comparisons.
 
-**Code contributors: Keyong Sun and Lin Ou (欧霖).** Code from both contributors is organised together in manuscript figure order.
+**Code contributors: Keyong Sun and Lin Ou.** Code from both contributors is organised together in manuscript figure order.
 
 [Browse the atlas](https://sunkeyong.github.io/sun-lab-website/tree-shrew-atlas.html) · [Analysis guide](docs/ANALYSIS_GUIDE.md) · [Code index and contributors](docs/CODE_INDEX.md) · [Environment setup](environments/README.md)
 
