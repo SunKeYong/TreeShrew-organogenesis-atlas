@@ -2,7 +2,7 @@
 
 Analysis code for the tree shrew organogenesis chromatin accessibility atlas, including single-cell processing, candidate cis-regulatory element (cCRE) analysis, sequence-to-function modelling and cross-species comparisons.
 
-**Code contributors: Keyong Sun and Ou Lin (欧霖).** Code from both contributors is organised together in manuscript figure order.
+**Code contributors: Keyong Sun and Lin Ou (欧霖).** Code from both contributors is organised together in manuscript figure order.
 
 [Browse the atlas](https://sunkeyong.github.io/sun-lab-website/tree-shrew-atlas.html) · [Analysis guide](docs/ANALYSIS_GUIDE.md) · [Code index and contributors](docs/CODE_INDEX.md) · [Environment setup](environments/README.md)
 
@@ -11,11 +11,11 @@ Analysis code for the tree shrew organogenesis chromatin accessibility atlas, in
 | Figure | Directory | Analyses | Code contributors |
 | --- | --- | --- | --- |
 | 1 | [`Figure_1/`](Figure_1/) | Atlas construction, QC, embedding and cell-type annotation | Keyong Sun |
-| 2 | [`Figure_2/`](Figure_2/) | cCRE catalogue, peak embeddings, pycisTopic, motifs and annotations | Keyong Sun; Ou Lin |
-| 3 | [`Figure_3/`](Figure_3/) | Sequence-to-function model preparation, training, QC and interpretation | Keyong Sun; Ou Lin |
+| 2 | [`Figure_2/`](Figure_2/) | cCRE catalogue, peak embeddings, pycisTopic, motifs and annotations | Keyong Sun; Lin Ou |
+| 3 | [`Figure_3/`](Figure_3/) | Sequence-to-function model preparation, training, QC and interpretation | Keyong Sun; Lin Ou |
 | 4 | [`Figure_4/`](Figure_4/) | Cross-species cCRE conservation, divergence and repeat analyses | Keyong Sun |
-| 5 | [`Figure_5/`](Figure_5/) | Immune-cell comparative analysis and cross-species predictions | Keyong Sun; Ou Lin |
-| 6 | [`Figure_6/`](Figure_6/) | Enhancer candidate screening and sequence predictions | Ou Lin |
+| 5 | [`Figure_5/`](Figure_5/) | Immune-cell comparative analysis and cross-species predictions | Keyong Sun; Lin Ou |
+| 6 | [`Figure_6/`](Figure_6/) | Enhancer candidate screening and sequence predictions | Lin Ou |
 
 Shared environment specifications are in [`environments/`](environments/); analysis, data and provenance documentation is in [`docs/`](docs/). Within each figure, subdirectories describe analysis stages rather than contributor names. Each figure README and the [complete index](docs/CODE_INDEX.md) identify the source contributor for each file. [FILE_MAP.tsv](docs/FILE_MAP.tsv) records the original-to-current path mapping for all 79 supplied source/configuration files.
 
@@ -41,4 +41,4 @@ Full analyses have not been rerun against study data or GPUs, and environment ex
 
 ## Attribution and citation
 
-See [code provenance and acknowledgements](docs/PROVENANCE.md) for contributions from Keyong Sun and Ou Lin and the third-party references retained in the supplied code. The manuscript citation and archival DOI can be added when available. A repository-wide software licence has not yet been selected; this upload does not relicense contributor or third-party code.
+See [code provenance and acknowledgements](docs/PROVENANCE.md) for contributions from Keyong Sun and Lin Ou and the third-party references retained in the supplied code. The manuscript citation and archival DOI can be added when available. A repository-wide software licence has not yet been selected; this upload does not relicense contributor or third-party code.
