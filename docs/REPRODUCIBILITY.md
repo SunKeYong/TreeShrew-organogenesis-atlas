@@ -18,7 +18,7 @@ The code has been organised and statically checked. No study analysis, model tra
 
 ## Source cleanup performed
 
-1. Retained all 79 supplied non-temporary code/configuration files and original filenames. Code from Keyong Sun and Ou Lin (欧霖) is combined under `Figure_1/` through `Figure_6/`; shared configurations remain in `environments/`. The path mapping is recorded in `FILE_MAP.tsv`.
+1. Retained all 79 supplied non-temporary code/configuration files and original filenames. Code from Keyong Sun and Lin Ou is combined under `Figure_1/` through `Figure_6/`; shared configurations remain in `environments/`. The path mapping is recorded in `FILE_MAP.tsv`.
 2. Removed notebook execution outputs/counts and transient execution/widget metadata; retained analysis source and order.
 3. Converted two cells containing only the prose `Tree shrew sequences` into Markdown headings in the immune ortholog-prediction notebook.
 4. Commented pasted console-table lines in `Fig4_Figure_plot1.R` and `Fig4_Figure_plot2.R` so R can parse them. Values remain visible as comments.

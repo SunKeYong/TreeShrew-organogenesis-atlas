@@ -3,7 +3,7 @@
 ## Contributors
 
 - **Keyong Sun**: supplied the original `sky_Code` collection, now distributed across Figures 1–5 according to the figure prefixes in the filenames.
-- **Ou Lin (欧霖)**: supplied the pycisTopic, model, immune-cell and enhancer code collections, now incorporated into Figures 2, 3, 5 and 6, together with the shared environment specifications.
+- **Lin Ou**: supplied the pycisTopic, model, immune-cell and enhancer code collections, now incorporated into Figures 2, 3, 5 and 6, together with the shared environment specifications.
 
 Both contributors' code appears together within the relevant figure. The [code index](CODE_INDEX.md) and the per-figure README files identify the source contributor for each file. [FILE_MAP.tsv](FILE_MAP.tsv) records all original and current paths. Contributor labels record the supplied collections; original upstream acknowledgements are retained and should not be interpreted as sole authorship of every line or as a publication author order.
 

@@ -1,6 +1,6 @@
 # Analysis guide
 
-Code contributed by Keyong Sun and Ou Lin (欧霖) is combined under Figure_1 through Figure_6. Use this as a navigation map. Steps describe how the supplied scripts relate to one another; intermediate data generation is not completely automated by this repository.
+Code contributed by Keyong Sun and Lin Ou is combined under Figure_1 through Figure_6. Use this as a navigation map. Steps describe how the supplied scripts relate to one another; intermediate data generation is not completely automated by this repository.
 
 ## Figure 1: atlas construction and cell annotation
 
