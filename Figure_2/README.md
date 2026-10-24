@@ -2,7 +2,7 @@
 
 Peak calling and embeddings, pycisTopic, motif enrichment, liftOver, VISTA and signal/annotation analyses.
 
-Code contributed by Keyong Sun and Ou Lin (欧霖).
+Code contributed by Keyong Sun and Lin Ou.
 
 | File | Type | Code contributor |
 | --- | --- | --- |
@@ -12,8 +12,8 @@ Code contributed by Keyong Sun and Ou Lin (欧霖).
 | [Fig2_cCREs_UMAP.R](Fig2_cCREs_UMAP.R) | R | Keyong Sun |
 | [Fig2_deeptools_and_liftover_for_GREAT_analysis.sh](Fig2_deeptools_and_liftover_for_GREAT_analysis.sh) | Shell | Keyong Sun |
 | [Fig2_liftover.sh](Fig2_liftover.sh) | Shell | Keyong Sun |
-| [pycisTopic/create_cistopic.py](pycisTopic/create_cistopic.py) | Python | Ou Lin |
-| [pycisTopic/plot_heatmap.R](pycisTopic/plot_heatmap.R) | R | Ou Lin |
-| [pycisTopic/transferModel_annotation_runUmap.ipynb](pycisTopic/transferModel_annotation_runUmap.ipynb) | Jupyter notebook | Ou Lin |
+| [pycisTopic/create_cistopic.py](pycisTopic/create_cistopic.py) | Python | Lin Ou |
+| [pycisTopic/plot_heatmap.R](pycisTopic/plot_heatmap.R) | R | Lin Ou |
+| [pycisTopic/transferModel_annotation_runUmap.ipynb](pycisTopic/transferModel_annotation_runUmap.ipynb) | Jupyter notebook | Lin Ou |
 
 See the [analysis guide](../docs/ANALYSIS_GUIDE.md), [environment setup](../environments/README.md), [data requirements](../docs/DATA_AND_REFERENCES.md) and [reproducibility notes](../docs/REPRODUCIBILITY.md) before execution. The table lists files for navigation, rather than a single automatic execution sequence; refer to the guide for the relevant workflow stages.
